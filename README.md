@@ -5,7 +5,7 @@
 The "Tentacle Animation" is an interactive JavaScript animation built using the HTML5 canvas element. This mesmerizing animation features multiple tentacles that elegantly follow the movement of the user's mouse cursor or autonomously move when the mouse is inactive. The animation is visually appealing with vibrant colors and realistic tentacle motion.
 
 ![Tentacle Animation Demo]
-[Electric-Strings.webm](https://github.com/akashtripathiiiii/Electric-Strings/assets/57222581/7881ae30-7431-4ddd-92dc-e0dda61b3662)
+(https://github.com/akashtripathiiiii/Electric-Strings/assets/57222581/7881ae30-7431-4ddd-92dc-e0dda61b3662)
 
 
 **Key Features:**
